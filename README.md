@@ -13,9 +13,9 @@ A/B tests are very commonly performed by data analysts and data scientists. It i
 For this project, I will be working to understand the results of an A/B test run by an e-commerce website. My goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 ### Project Instructions:
 This Project has Three Parts.
-Part I - Probability
-Part II - A/B Test
-Part III - Regression
+- Part I - Probability
+- Part II - A/B Test
+- Part III - Regression
 ### Results:
 we can see that all the varibles are not statistically significant. Even after we look at an interaction between page and country to see if there significant effects on conversion. And there isn't. We fail to reject the null so e-commerce website needs to stick to the old page.
 ### License:
